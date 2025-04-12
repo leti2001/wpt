@@ -1,5 +1,4 @@
 importScripts("/resources/testharness.js");
-
 var blob, empty_blob, readerSync;
 setup(() => {
     readerSync = new FileReaderSync();
